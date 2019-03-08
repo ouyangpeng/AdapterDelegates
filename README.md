@@ -1,6 +1,16 @@
 # AdapterDelegates
 Read the motivation for this project in [my blog post](http://hannesdorfmann.com/android/adapter-delegates).
 
+中文翻译： 逃离adapter的地狱－针对多个View type的组合实现方案
++ http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0810/3282.html
+
+另外的 参考例子
+
++ https://github.com/ouyangpeng/DelegationAdapter
+
+
+
+
 ## Dependencies
 This library is available on maven central:
 
